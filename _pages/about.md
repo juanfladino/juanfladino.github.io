@@ -14,7 +14,7 @@ My research focuses on Political Economy and Development Economics.
 Publications
 ------------
 
-- [One Step Ahead of the Law: The Net Effect of Anticipation and Implementation of Colombia's Illegal Crops Substitution Program](https://www.sciencedirect.com/science/article/pii/S0047272721001341) - with [Santiago Saavedra (URosario)](https://sites.google.com/view/santiago-saavedra/home) and Daniel Wiesner (Independent scholar)
+- **[One Step Ahead of the Law: The Net Effect of Anticipation and Implementation of Colombia's Illegal Crops Substitution Program]**(https://www.sciencedirect.com/science/article/pii/S0047272721001341) - with [Santiago Saavedra (URosario)](https://sites.google.com/view/santiago-saavedra/home) and Daniel Wiesner (Independent scholar)
 
 Working papers
 ------------
