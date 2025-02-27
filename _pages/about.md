@@ -26,7 +26,7 @@ My research focuses on Political Economy and Development Economics.
 -------------------------
 **Pay-to-play: Campaing Contributions and Kickbacks in Public Procurement** with [Saad Gulzar](https://saadgulzar.com/) (Princeton) and [Juan Felipe Riaño](https://www.juanfeliperiano.com/) (Georgetown)
 
-**The Political Economy of Environmental Protection** with [Muhammad Zia Mehmood (UC Berkeley)](https://www.ziamehmood.com/) and [Suraj Nair (UC Berkeley)](https://surajrn.github.io/)
+**The Political Economy of Environmental Protection** with [Muhammad Zia Mehmood](https://www.ziamehmood.com/) (UC Berkeley) and [Suraj Nair](https://surajrn.github.io/) (UC Berkeley)
 
 
 
