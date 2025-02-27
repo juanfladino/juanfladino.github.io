@@ -21,7 +21,10 @@ Publications
 
 Working papers
 ------------
-- [**Command and Can't Control: Assessing Centralized Accountability in the Public Sector**](http://juanfladino.github.io/files/Gulzar_etal_2025_CommandAndControl.pdf) (submitted) - with [Saad Gulzar (Princeton)](https://saadgulzar.com/), [Muhammad Zia Mehmood (UC Berkeley)](https://www.ziamehmood.com/), [Daniel Rogger (World Bank)](https://www.danrogger.com/)
+- [**Command and Can't Control: Assessing Centralized Accountability in the Public Sector**](http://juanfladino.github.io/files/Gulzar_etal_2025_CommandAndControl.pdf) (submitted) - with [Saad Gulzar (Princeton)](https://saadgulzar.com/), [Muhammad Zia Mehmood (UC Berkeley)](https://www.ziamehmood.com/), [Daniel Rogger (World Bank)](https://www.danrogger.com/) - <details>
+  <summary>Abstract</summary>
+  A long-established approach to management in government has been the transmission of information up a hierarchy, centralized decision-making, and centralized accountability; colloquially known as `command and control'. This paper examines the effectiveness of a centralized accountability system implemented at scale in Punjab, Pakistan. The scheme automatically identified poorly performing jurisdictions for the attention of central management. We find that greater flagging and corresponding de facto punishments had negligible impact on school or student outcomes. We use detailed data on key elements of the education production function to show that command-and-control approaches to managing the general public sector do not induce bureaucratic action towards improvements in government performance.
+</details>
 
 Work in progress
 ------------
