@@ -56,20 +56,6 @@ details {
   padding: 0; /* Remove default padding */
 }
 
-/* Reduce spacing around the <summary> element and set font size */
-summary {
-  margin: 0; /* Remove default margin */
-  padding: 0; /* Remove default padding */
-  display: block; /* Ensure summary behaves as a block element */
-  font-size: 0.8em; /* Set a specific font size for the summary */
-}
-
-/* Adjust spacing and font size for content inside <details> */
-details > *:not(summary) {
-  margin: 0; /* Remove default margin */
-  padding: 5px 0; /* Add small padding for content */
-  font-size: 0.8em; /* Set a specific font size for the content */
-}
 
 /* Display block in IE6-9 and FF3 */
 
