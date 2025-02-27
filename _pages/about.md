@@ -24,7 +24,7 @@ Working papers
 Work in progress
 ------------
 
-**Pay-to-play: Campaing Contributions and Kickbacks in Public Procurement** - with [Saad Gulzar (Princeton)](https://saadgulzar.com/), and [Juan Felipe Riaño](https://www.juanfeliperiano.com/)
+- **Pay-to-play: Campaing Contributions and Kickbacks in Public Procurement** - with [Saad Gulzar (Princeton)](https://saadgulzar.com/), and [Juan Felipe Riaño](https://www.juanfeliperiano.com/)
 
-**The Political Economy of Environmental Protection** - with [Muhammad Zia Mehmood (UC Berkeley)](https://www.ziamehmood.com/) and [Suraj Nair (UC Berkeley)](https://surajrn.github.io/)
+- **The Political Economy of Environmental Protection** - with [Muhammad Zia Mehmood (UC Berkeley)](https://www.ziamehmood.com/) and [Suraj Nair (UC Berkeley)](https://surajrn.github.io/)
 
