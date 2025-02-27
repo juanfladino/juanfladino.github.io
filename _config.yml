@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Juan Felipe Ladino - JFL"
+title                    : "JFL"
 title_separator          : "-"
 name                     : &name "Juan Felipe Ladino"
 description              : &description "PhD student"
