@@ -18,7 +18,7 @@ Publications
 
 Working papers
 ------------
-- [**Command and Can't Control: Assessing Centralized Accountability in the Public Sector**] (submitted) - with [Saad Gulzar (Princeton)](https://saadgulzar.com/), [Muhammad Zia Mehmood (UC Berkeley)](https://www.ziamehmood.com/), [Daniel Rogger (World Bank)](https://www.danrogger.com/)
+- **Command and Can't Control: Assessing Centralized Accountability in the Public Sector** (submitted) - with [Saad Gulzar (Princeton)](https://saadgulzar.com/), [Muhammad Zia Mehmood (UC Berkeley)](https://www.ziamehmood.com/), [Daniel Rogger (World Bank)](https://www.danrogger.com/)
 
 Work in progress
 ------------
