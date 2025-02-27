@@ -18,7 +18,12 @@ Publications
 
 Working papers
 ------------
+- [**Command and Can't Control: Assessing Centralized Accountability in the Public Sector**] (submitted) - with [Saad Gulzar (Princeton)](https://saadgulzar.com/), [Muhammad Zia Mehmood (UC Berkeley)](https://www.ziamehmood.com/), [Daniel Rogger (World Bank)](https://www.danrogger.com/)
 
 Work in progress
 ------------
+
+- **Pay-to-play: Campaing Contributions and Kickbacks in Public Procurement** - with [Saad Gulzar (Princeton)](https://saadgulzar.com/), and [Juan Felipe Riaño](https://www.juanfeliperiano.com/)
+
+- **The Political Economy of Environmental Protection** - with [Muhammad Zia Mehmood (UC Berkeley)](https://www.ziamehmood.com/) and [Suraj Nair (UC Berkeley)](https://surajrn.github.io/)
 
